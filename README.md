@@ -1,12 +1,10 @@
 # Computer Networks & Systems Programming Portfolio
 
-Welcome! This repository serves as a public directory and technical overview of the networking and systems programming projects I completed during my coursework at **California State University, Sacramento (Sac State)**. 
-
-> ⚠️ **Note on Code Availability:** To uphold Sac State's Academic Integrity Policy and respect course copyrights, the actual source code for these repositories is kept strictly **private**. However, I am more than happy to do a live code walkthrough or share access with recruiters and hiring managers upon request.
+Welcome! This repository serves as a public directory and technical overview of my personal projects, and networking and systems programming projects I completed during my coursework at **California State University, Sacramento (Sac State)**. 
 
 ---
 
-## 🛠️ Projects Overview
+## 🛠️ Overview of a few of the projects I've done
 
 ### 1. Reliable UDP File Transfer (`ReliableUDP`)
 *   **Language:** Java
@@ -36,7 +34,7 @@ Welcome! This repository serves as a public directory and technical overview of 
 *   **Design Patterns:** Event-driven architecture, Producer-Consumer, Client-Server architecture.
 
 ## ✉️ Contact & Code Requests
-If you are a technical interviewer, recruiter, or engineering manager interested in reviewing the underlying architecture or source implementations of these projects, please reach out to me:
+If you have any questions, please reach out to me:
 
 *   **Email:** [rylandporter@gmail.com]
 *   **LinkedIn:** [https://www.linkedin.com/in/ryland-porter-9444983a7]
